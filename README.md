@@ -18,6 +18,4 @@ Input user for a specific movie title & search for the corresponding movie link 
 
 
 >NOTES : Main working code is [movie.ipynb]() ,
->   To view notebook files use [nbviewer](https://nbviewer.jupyter.org) 
->>   frugy.ipynb  is another mini scraping code unreletable to the above 'movie link scraper'. It is my current project aimed to scrape for a product across different ecom sites at cheapest affordable price.
->>> ALL CODE IS SELF-EXPLANATORY ... still submit pull request for any changes or doubts 
+>   To view notebook files use [nbviewer](https://nbviewer.jupyter.org)
