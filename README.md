@@ -9,9 +9,13 @@ I wanted to avoid consistent repeated task of visiting that link and searching f
 
 This is where Scraping comes handy.
 
+## Steps
 Scrape through the webpage using beautiful soup & requests in python
 
-get all the movie links & store them in a pickle (intermediate file )  & then ultimately to a CSV file.
+Get all the movie links & store them in a pickle (intermediate file )  & then ultimately to a CSV file.
+
+Input user for a specific movie title & search for the corresponding movie link in the csv file obtained above.
+
 
 >NOTES : Main working code is [movie.ipynb]() ,
 >   To view notebook files use [nbviewer](https://nbviewer.jupyter.org) 
