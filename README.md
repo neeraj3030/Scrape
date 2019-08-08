@@ -17,5 +17,5 @@ Get all the movie links & store them in a pickle (intermediate file )  & then ul
 Input user for a specific movie title & search for the corresponding movie link in the csv file obtained above.
 
 
->NOTES : Main working code is [movie.ipynb]() ,
+>NOTE : Main working code is [movie.ipynb]() ,
 >   To view notebook files use [nbviewer](https://nbviewer.jupyter.org)
